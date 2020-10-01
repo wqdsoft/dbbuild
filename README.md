@@ -1,7 +1,5 @@
 # dbbuild
 
-dbbuild is database script generating tool for the mybatis project.
-
 dbbuild 是一个mybatis项目数据库脚本生成工具，通过读取mybatis的mapper文件，分析出绝大部分数据库名称与相应的字段。
 
 # 开发目的
